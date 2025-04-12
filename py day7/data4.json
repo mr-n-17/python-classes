@@ -1,0 +1,9 @@
+{
+    "user": {
+        "name": "Alice",
+        "address": {
+            "city": "Mumbai",
+            "pin": 400001
+        }
+    }
+}
