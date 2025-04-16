@@ -1,0 +1,64 @@
+Email / phone number validation (real-world use)
+
+Extracting hashtags, mentions from strings
+
+Cleaning text (removing special characters, multiple spaces)
+
+Checking passwords for patterns (like uppercase + digit)
+
+Simple log parsing
+
+Extract all email addresses from a paragraph
+Extract all hashtags from a tweet
+Extract all valid dates in DD/MM/YYYY format
+Clean a text by removing all special characters except alphabets and digits
+Check if a password contains at least one digit, one uppercase letter, and one special character
+Extract all phone numbers (10-digit) from a string
+Extract all URLs from a webpage snippet
+Count how many times a particular word appears (e.g. "python")
+Replace multiple spaces with a single space in a paragraph
+Parse a log file to get request types (GET, POST, etc.)
+
+
+
+Extract all capitalized words from a sentence
+Remove all HTML tags from a given string
+Extract words starting with @ (usernames in tweets)
+Validate an email address format
+Validate a URL format (starting with http/https)
+Find all strings enclosed in double quotes
+Replace all numbers in a string with #
+Extract domain names from email addresses
+Find all time values in HH:MM format
+Extract all file extensions (e.g., .jpg, .pdf) from filenames
+Check if a string starts with a capital letter and ends with a period
+Match all numbers that are exactly 4 digits long
+Extract text between parentheses
+Split a paragraph into sentences using . as separator
+Match all alphanumeric IDs (like EMP1234)
+Identify repeated words (like "go go go")
+Extract hashtags and mentions separately from a tweet
+Replace tabs with 4 spaces in a text
+Find IP addresses in a mixed string
+Extract country codes from international phone numbers like +91-1234567890
+
+Validate if a string is a valid PAN number (e.g., ABCDE1234F)
+Extract all mobile numbers starting with 7, 8, or 9 and exactly 10 digits
+Match all dates in DD-MM-YYYY or DD/MM/YYYY format
+Replace all special characters in a string with an underscore
+Extract valid hexadecimal color codes like #A3C113
+Find all floating point numbers (e.g., 12.34, 0.5)
+Validate Aadhaar number (12 digits, with optional spaces)
+Extract titles like Mr., Mrs., Dr., Prof. from a paragraph
+Extract currency values like ₹1,200, $599.99
+Detect all repeated digits (like 112233)
+Find lines in a multiline string that start with a number
+Validate vehicle registration numbers (e.g., TN10AB1234)
+Extract all strings within square brackets [like this]
+Mask all but the last 4 digits of a credit card number
+Match strings that are valid hashtags (alphanumeric, starts with #)
+Extract YouTube video IDs from URLs
+Match all HTML entities (e.g., &, <)
+Remove all emojis from a given text
+Match valid GSTINs (Indian GST number)
+Validate a password: 8+ chars, at least 1 uppercase, 1 lowercase, 1 digit, 1 special char

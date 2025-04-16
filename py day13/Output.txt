@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3649-823F
+
+ Directory of c:\Users\bollini.nivas\pythonclass\__pycache__
+
+04/16/2025  02:46 PM    <DIR>          .
+04/16/2025  02:46 PM    <DIR>          ..
+04/16/2025  02:46 PM            51,295 day 13.ipynb
+04/16/2025  02:46 PM                 0 Output.txt
+04/03/2025  10:30 AM               258 test_1.cpython-312.pyc
+               3 File(s)         51,553 bytes
+               2 Dir(s)  271,419,531,264 bytes free
